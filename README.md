@@ -8,6 +8,7 @@
 - Maven (Initializr utiliza la versión 4)
 - Spring Boot (versión 3.4.0)
 - Proyecto en JAR
+  
   **Dependencias**
   - Postgresql
   - jackson-core
