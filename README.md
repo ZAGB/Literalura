@@ -1,3 +1,3 @@
-### Literalura
+# Literalura
 ## Segundo proyecto del Grupo 8 Oracle Next Education 
-# Creado por: Zujeilt Gonzalez 
+### Creado por: Zujeilt Gonzalez 
