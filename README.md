@@ -29,18 +29,23 @@
 
 #### Funcionalidades
 1. Buscar libros y guardarlos en la BD.
+   
    ![image](https://github.com/user-attachments/assets/5eb8a1f4-b027-4c9a-bd59-68ebc8b9002d)
 
 3. Listar libros guardados en la BD.
+   
    ![image](https://github.com/user-attachments/assets/7842db11-a54c-4849-ab0e-3b4674a63fcd)
 
 5. Listar autores guardados en la BD.
+   
    ![image](https://github.com/user-attachments/assets/8b59175f-66de-413e-8242-b5d2ead133d8)
 
 7. Listar autores en un tiempo especifico.
+   
    ![image](https://github.com/user-attachments/assets/e6410416-442f-42a1-9c81-5bbad6667aeb)
 
 9. Listar libros por idioma.
+    
   ![image](https://github.com/user-attachments/assets/e564d750-f584-46d5-94d4-4ff287136f8c)
 
 
