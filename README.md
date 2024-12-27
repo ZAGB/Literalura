@@ -16,6 +16,11 @@
  
 ## (ERD) for Database:
 ![image](https://github.com/user-attachments/assets/184d85b7-439a-438e-a107-501f2bbeef34)
-> Relacion One to Many. Un Autor puede tener varios libros, pero los libros solo un escritor.
+> Relacion One to Many and Many to One. Un Autor puede tener varios libros, pero los libros solo un escritor.
+![image](https://github.com/user-attachments/assets/0dd88f85-5c9a-4e32-872b-dbd8e23f39bd)
+![image](https://github.com/user-attachments/assets/d5158ff0-ffa4-49d6-af44-5ff325df9922)
+
+> Datos insertados e graficos
+
 
 
